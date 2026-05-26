@@ -57,11 +57,11 @@ All data tables created in the silver layer can be found [here](https://drive.go
 
 Heatmaps were generated to visualize the geographic distribution of key variables across California census tracts:
 
-1. **California census tract boundaries** — establishing the base geographic layer   <img width="1589" height="1914" alt="image" src="https://github.com/user-attachments/assets/07379f9d-1eec-4646-b7d9-1edbf5718586" />
+1. **California census tract boundaries** — establishing the base geographic layer   <img width="1189" height="1236" alt="image" src="https://github.com/user-attachments/assets/07379f9d-1eec-4646-b7d9-1edbf5718586" />
 
 2. **Open and public lands** — by census tract, derived from General Plan land use classifications   <img width="1189" height="1236" alt="image" src="https://github.com/user-attachments/assets/62b7a41b-49e8-444b-9b18-e3d2aa72282f" />
 
-3. **HRSA health facility sites** — by type and census tract <img width="1389" height="1721" alt="image" src="https://github.com/user-attachments/assets/fc9dac5d-fa70-4643-a762-66d85a13a3ab" />
+3. **HRSA health facility sites** — by type and census tract <img width="1189" height="1236" alt="image" src="https://github.com/user-attachments/assets/fc9dac5d-fa70-4643-a762-66d85a13a3ab" />
 
 4. **Socioeconomic and transportation indicators** — from [ACS census data](https://docs.google.com/presentation/d/12M2rJncCQ8c5FOGTAkhnevaSKY52SzK_/edit?usp=drive_link&ouid=104021899507824718620&rtpof=true&sd=true)
 5. **Public health outcome measures** — from [CDC PLACES](https://docs.google.com/presentation/d/1rWvDXpZra62UYjJkh5hcZhYuz0Iu-HnB/edit?usp=drive_link&ouid=104021899507824718620&rtpof=true&sd=true)
